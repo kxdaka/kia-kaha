@@ -36,11 +36,9 @@ margin-bottom: 1.4rem;
 main {
     max-width: 1000px;
     margin: 0 auto;
-    padding-right: 2.6rem;
+    padding: 2.6rem;
     border-left: solid 2px #fff;
     border-right: solid 2px #fff;
-
-
 }
 
 footer {
